@@ -7,7 +7,7 @@ license_url: 'https://en.wikipedia.org/wiki/File:Skinput_arm_buttons.JPG'
 categories:
   - preface
 tags:
-  - rfid
-  - arm
-  - buttons
+  - interface
+  - touch
+  - input
 ---
