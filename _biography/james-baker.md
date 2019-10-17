@@ -1,7 +1,7 @@
 ---
 author: fgerodim
 title: "James K. Baker"
-image_url: /images/james-baker.jpg
+
 caption: "James K. Baker και η σύζυγός του Janet M. Baker είναι οι συνιδρυτές του Dragon Systems. Σε αυτούς οφείλεται η δημιουργία του Dragon NaturallySpeaking. James Baker είναι ειδικός στην τεχνολογία αναγνώρισης φωνής και  διακεκριμένος καθηγητής στο Carnegie Mellon University. Από τον Ιούνιο του 2007 εως το 2009 Baker υπηρέτησε ως Διευθυντής Έρευνας στο Center of Excellence in Human Language στο Johns Hopkins University."
 categories:
   - biography
