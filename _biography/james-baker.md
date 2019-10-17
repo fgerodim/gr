@@ -13,11 +13,8 @@ tags:
   - Dragon NaturallySpeaking
 gallery:
   - image_url: /images/dragon-naturallySpeaking.jpg
-    caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
+    caption: "Το Dragon NaturallySpeaking (γνωστό και ως Dragon for PC ή DNS) είναι ένα πακέτο λογισμικού αναγνώρισης ομιλίας που αναπτύχθηκε από την Dragon Systems του Newton, Massachusetts. Εκτελείται σε προσωπικούς υπολογιστές Windows. Η έκδοση 15 (Professional Individual and Legal Individual), η οποία υποστηρίζει εκδόσεις των 32 και 64 bit των Windows 7, 8 και 10, κυκλοφόρησε τον Αύγουστο του 2016. Η έκδοση macOS ονομάζεται Dragon Professional Individual για Mac, έκδοση 6 ή Dragon για Mac."
   
  
 ---
 
-{% include_relative bio-kay.md %}
-
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
